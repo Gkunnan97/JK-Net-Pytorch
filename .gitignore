@@ -130,4 +130,4 @@ dmypy.json
 
 # User added
 .vscode/*
-data/*
+# data/*
